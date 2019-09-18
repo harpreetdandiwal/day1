@@ -9,7 +9,7 @@ System.out.println("welcome to java programming");
 int a,b,c;
 //value assignment
 a=10;
-b=15 ;
+b=130;
 //perform add
 c=a+b;
 
