@@ -10,9 +10,9 @@ int a,b,c;
 //value assignment
 a=10;
 b=130;
-//perform add
-c=a+b;
+//perform multiplication
+c=a*b;
 
-System.out.println("sum is" +c);
+System.out.println("multiplication is " +c);
     }
 }
